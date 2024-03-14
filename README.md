@@ -11,7 +11,7 @@ https://www.electronjs.org/zh/docs/latest/tutorial/quick-start
 vi ~/.npmrc
 
 registry=https://mirrors.huaweicloud.com/repository/npm/
-electron_mirror=https://npm.taobao.org/mirrors/electron/
+electron_mirror=https://npmmirror.com/mirrors/electron/
 
 ```
 
